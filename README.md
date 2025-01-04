@@ -2,7 +2,6 @@
 
 A dynamic and interactive Kanban board application built with vanilla JavaScript that helps you organize and track your tasks efficiently.
 
-![KratNay Task Tracker](https://kratnay-task-tracker.netlify.app/)
 
 ## 🌟 Features
 
